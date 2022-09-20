@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @karinahallberg
 - 👀 I’m interested in anything within Cloud Development
 - 🌱 I’m currently learning everything about Cloud Development
-- 💞️ I’m looking to collaborate on Most things
+- 💞️ I’m looking to collaborate on most things
 - 📫 How to reach me Email
 
 <!---
